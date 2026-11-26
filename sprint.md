@@ -5,7 +5,7 @@ Mettre en ligne la page d accueil et le formulaire d'inscription pour permettre 
 
 °°Role de l'équipe
 °Chef de Projet (Waly): Pilotage du projet coordination de l'équipe création et suivi du "sprint;md" et des tickets.
-°Designer (Shayann): Rédactionb du contenu de la page d'accueil "accueil.md" choix de l'ordre d'affichage des éléments des couleurs et de l'ambiance visuelle.
+°Designer (Shayann): Rédaction du contenu de la page d'accueil "accueil.md" choix de l'ordre d'affichage des éléments des couleurs et de l'ambiance visuelle.
 °Développeur Front-eND (Abdoul Aziz): Intégration de la page principale "Index;html" avec le titre principal du vid"e grenier et la fausse date provisoire.
 °Dévellopeur Data (Isacc): Création et structuration d'u n fichier de données pour l'événement "Sprint.1"
 
