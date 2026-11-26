@@ -1,9 +1,9 @@
 Sprint 1: Site web du Vide Grenier du quartier 
 
-Objectif du sprint (sprint goal)
+Objectif du sprint (sprint goal)🚀
 Mettre en ligne la page d accueil et le formulaire d'inscription pour permettre  aux riverains de réserver leur emplacement et de consulter toutes les informations pratiques de l'évènement.
 
-°°Role de l'équipe
+°°Role de l'équipe✅
 °Chef de Projet (Waly): Pilotage du projet coordination de l'équipe création et suivi du "sprint;md" et des tickets.
 °Designer (Shayann): Rédaction du contenu de la page d'accueil "accueil.md" choix de l'ordre d'affichage des éléments des couleurs et de l'ambiance visuelle.
 °Développeur Front-eND (Abdoul Aziz): Intégration de la page principale "Index;html" avec le titre principal du vid"e grenier et la fausse date provisoire.
